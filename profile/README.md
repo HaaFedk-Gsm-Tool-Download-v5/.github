@@ -17,10 +17,10 @@ Miscellaneous Improvements: Reduced interval time to 1 hour. Enhanced Samsung FR
 
 ## Download HaaFedk Gsm Tool V4.3 (Latest Version) Free
 
-Tool Name: HaaFedk Gsm Tool
-Version: V4.3.0.0
-File Size: 681 MB
-Platform: Windows (32-bit and 64-bit)
+* Tool Name: HaaFedk Gsm Tool
+* Version: V4.3.0.0
+* File Size: 681 MB
+* Platform: Windows (32-bit and 64-bit)
 
 ## [Download Now](https://shorturl.at/KaCHb)
 
